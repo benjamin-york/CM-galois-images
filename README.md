@@ -4,4 +4,4 @@ This code is contained in two folders. The first folder, Image_Code, contains co
 
 The second folder, Division_Fields, verifies claims about certain division fields of CM elliptic curves made in the paper.
 
-See the README section of each file for more detailed information.
+See the README file in each folder for more detailed information.
