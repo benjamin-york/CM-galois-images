@@ -1,6 +1,6 @@
 ///////////////////////////////////
 
-//README: This code verifies claims about division fields made in Proposition 3.12 of our paper.
+//README: This code verifies claims about division fields made in Proposition 3.6 of our paper.
 
 ///////////////////////////////////
 
