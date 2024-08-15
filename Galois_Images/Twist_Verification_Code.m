@@ -1,10 +1,10 @@
 ///////////////////////////////////
 
-//README: This code assumes the user already has access to the ell-adic-images code from Andrew Sutherland for CM elliptic curves.
+//README: This code assumes the user already has access to the ell-adic-galois-images code from Andrew Sutherland for CM elliptic curves.
 //For each CM discriminant D with order of class number 2
 //this code shows that the list of elliptic curves with CM discriminant D and non-maximal ell-adic image
 //for some prime ell is the same as the those present in Tables 2 and 4 of our paper.
-//For more detail on this method, see Section 4 of our paper, in particular Examples 4.4 and 4.5
+//For more detail on this method, see Section 4 of our paper, in particular Examples 4.4 and 4.5.
 
 ///////////////////////////////////
 
