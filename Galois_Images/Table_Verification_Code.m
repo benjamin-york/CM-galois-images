@@ -1,13 +1,13 @@
 ///////////////////////////////////
 
-//README: This code assumes the user already has access to the ell-adic-images code from Andrew Sutherland for CM elliptic curves
-//This code confirms that the data present in Tables 2 and 4 is accurate
+//README: This code assumes the user already has access to the ell-adic-galois-images code from Andrew Sutherland for CM elliptic curves.
+//This code verifies that the data present in Tables 2 and 4 of our paper is accurate.
 
 //In particular, let D be a CM discriminant, and let ell be a prime dividing 2*D. 
 //Then for each ell-adic image G occuring for elliptic curve E with CM discriminant D
 //we confirm that E has image G, and that G has the form and label given in Tables 2 and 4.
 //This code suppliments theoretical work used to confirm all images for j-invariants 0, 1728, 
-//as there are infinitely many curves with non-maximal image in those cases
+//as there are infinitely many curves with non-maximal image in those cases.
 
 ///////////////////////////////////
 
