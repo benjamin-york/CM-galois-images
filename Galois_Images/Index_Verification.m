@@ -1,7 +1,7 @@
 ///////////////////////////////////
 
-//README: This code assumes the user already has access to the ell-adic-galois-images code from Andrew Sutherland for CM elliptic curves
-//This code verifies the claims made in Lemma 3.2, Lemma 3.7, Lemma 3.10, and Lemma 3.13 of our paper
+//README: This code assumes the user already has access to the ell-adic-galois-images code from Andrew Sutherland for CM elliptic curves.
+//This code verifies the claims made in Lemma 3.2, Lemma 3.7, Lemma 3.10, and Lemma 3.13 of our paper.
 
 ///////////////////////////////////
 
